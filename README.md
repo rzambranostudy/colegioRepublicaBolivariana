@@ -1,0 +1,2 @@
+# colegioRepublicaBolivariana
+Proyecto de desarrollo web dirigido a mejorar la versión actual presente en la IE República Bolivariana de Venezuela, toda vez que el plantel educativo no cuenta con una página web. A través de este proyecto, el plantel educativo fortaleció dos aspectos importantes. En primera medida, su visibilidad creció de manera paulatina a nivel local y nacional; y su accesibilidad por medios digitales permitió incrementar su contacto con la comunidad local y nacional.
